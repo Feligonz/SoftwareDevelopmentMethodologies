@@ -10,4 +10,3 @@ This is a work carried out in 2021 for the chair of Software Development Methodo
   - Diagrama de clases Sprint1 : https://drive.google.com/file/d/1u2TNKqTOwj39VUHwpjIDN-6MBTSp91LC/view?usp=sharing
   - Miro : https://miro.com/welcomeonboard/5PgwDOl10Ut1oearSerQnCXYH33veWnOMrBLoRZNeWQRDxXpPwG5Oj5CvycOxDJH
   - Trello : https://trello.com/invite/b/zx2t38KZ/7ad8a882903a74d47cffea2031d8dcb2/trabajoespecial
-  - GitHub: https://github.com/CurtiFrancisco/Tpe-metodologia.git
