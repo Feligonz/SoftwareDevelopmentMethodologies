@@ -1,0 +1,9 @@
+Criterio de done:
+    • Criterios de aceptación cumplidos: criterios de aceptación tenidos en cuenta a la hora de codificar el sistema y se ven reflejados en la implementación.
+    • Funcionalidades requeridas operativas: las funcionalidades requeridas por el Product Owner son utilizables y cumplen con lo que el P.O. especificó.
+    • Código fácil de entender y sencillo: código legible con nombres de variables claros, siguiendo buenas prácticas del desarrollo de software, entendible para cualquier programador.
+    • Código comentado: se comenta en el código para que y porque se tomaron determinadas decisiones al implementar.
+    • Software documentado en caso de ser necesario: Diagramas de clase, actividades y secuencias.
+    • Garantiza una cobertura de testeo de 60%.
+    • Link de commit de github
+    • Se garantiza peer review

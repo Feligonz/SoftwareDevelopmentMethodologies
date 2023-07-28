@@ -1,0 +1,31 @@
+A continuación enunciamos los criterios de Done, y como fueron cumplidos en este primer sprint para cada user Story. 
+
+Criterio de done:
+    • Criterios de aceptación cumplidos: criterios de aceptación tenidos en cuenta a la hora de codificar el sistema y se ven reflejados en la implementación.
+    • Funcionalidades requeridas operativas: las funcionalidades requeridas por el Product Owner son utilizables y cumplen con lo que el P.O. especificó.
+    • Código fácil de entender y sencillo: código legible con nombres de variables claros, siguiendo buenas prácticas del desarrollo de software, entendible para cualquier programador.
+    • Código comentado: se comenta en el código para que y porque se tomaron determinadas decisiones al implementar.
+    • Software documentado en caso de ser necesario: Diagramas de clase, actividades y secuencias.
+    • Garantiza una cobertura de testeo de 60%.
+    • Link de commit de github
+    • Se garantiza peer review
+
+Criterio de done para "Como Secretaria, necesito poder modificar la sección sobre los materiales aceptados para adaptarse a las fábricas que van variando los productos que aceptan."
+     • En el codigo implementado la secretaria posee un nombre con su respectiva password para poder ingresar asi al sistema. De esta forma será la unica que podrá modificar la página.
+     • El producto se aproxima a lo solicitado por el Product Owner en este sprint.
+     • El código es sencillo y legible con variables entendibles.
+     • El código en muchos casos no requiere de comentarios ya que la legibilidad de este es explicita.
+     • Link de commit de github : 3c79bddfb1af2b21e605458a45e50186e08b38cd 
+     • Tenemos planteado como hacer el testeo de esta user story. Lo cual ya identificamos como el 60% del trabajo.
+     • Cada uno de nosotros reviso el codigo. 
+
+Criterio de done para "Como ciudadano quiero poder dar aviso de solicitud para que me retiren los materiales reciclables que tengo."
+     • El ciudadano, por medio de los atributos, puede indicar nombre, apellido, numero de telefono, dirección etc. También a la hora de realizar 
+       la solicitud de retiro se les pide una fecha y demás. Por lo que esta cumplido 
+     • El sistema chequea que la distancia sea menor a 6km, de lo contrario no permitira que se haga la solicitud.
+     • Las opciones de entrega estan limitadas a 4 gracias al LIMITE DE TRANSPORTE. Por lo tanto un ciudadano si o si tendra que elegir una de esas 4 opciones antes de continuar 
+     • El código es sencillo y legible con variables entendibles.
+     • El código en muchos casos no requiere de comentarios ya que la legibilidad de este es explicita.
+     • Link de commit de github : 3c79bddfb1af2b21e605458a45e50186e08b38cd 
+     • Tenemos planteado como hacer el testeo de esta user story. Lo cual ya identificamos como el 60% del trabajo.
+     • Cada uno de nosotros reviso el codigo. 
